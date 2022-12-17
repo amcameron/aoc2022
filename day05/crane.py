@@ -4,7 +4,7 @@ from collections import deque
 
 
 example_input = """\
-[D]    
+    [D]    
 [N] [C]    
 [Z] [M] [P]
  1   2   3 
